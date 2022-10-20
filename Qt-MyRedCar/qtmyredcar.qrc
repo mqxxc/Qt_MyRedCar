@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/QtMyRedCar">
+        <file alias="gear">齿轮.png</file>
+        <file alias="funnel">漏斗.png</file>
+        <file>ico.png</file>
+        <file alias="author">portrait.jpg</file>
+    </qresource>
+</RCC>

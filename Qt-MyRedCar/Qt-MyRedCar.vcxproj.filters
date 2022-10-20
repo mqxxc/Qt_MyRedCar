@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QtMyRedCar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RcWidget.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Elastic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DeskVideo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StartUp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="About.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Set.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="awaken_source.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataHandle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{9162078e-8739-4cc7-b42b-34fa565eb7f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{9dd9d798-d5b2-4f10-b7e4-c53e1e485acd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{2111a287-994c-4bdc-94a2-b1e8fc5b6d3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI文件">
+      <UniqueIdentifier>{02cec9f2-64bf-43bd-ad58-a3d2c5763c63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="windows资源">
+      <UniqueIdentifier>{1601f55a-3c99-4a9d-8148-ae4b5545c51f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="QtMyRedCar.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="RcWidget.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="Unit.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="Elastic.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="Tray.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="StartUp.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="DeskVideo.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="awaken_source.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="rep_awaken_source.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="About.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+    <QtMoc Include="set.h">
+      <Filter>头文件</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="qtmyredcar.qrc">
+      <Filter>资源文件</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="qtmyredcar.ui">
+      <Filter>UI文件</Filter>
+    </QtUic>
+    <QtUic Include="RcWidget.ui">
+      <Filter>UI文件</Filter>
+    </QtUic>
+    <QtUic Include="Unit.ui">
+      <Filter>UI文件</Filter>
+    </QtUic>
+    <QtUic Include="About.ui">
+      <Filter>UI文件</Filter>
+    </QtUic>
+    <QtUic Include="Set.ui">
+      <Filter>UI文件</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>windows资源</Filter>
+    </ClInclude>
+    <ClInclude Include="macro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataHandle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="33-9.ico">
+      <Filter>windows资源</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Qt-MyRedCar.rc">
+      <Filter>windows资源</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
