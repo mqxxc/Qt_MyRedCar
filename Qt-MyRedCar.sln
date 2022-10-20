@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Qt-MyRedCar", "Qt-MyRedCar\Qt-MyRedCar.vcxproj", "{88581BA8-A021-4D10-9D5A-672EF8944E6A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "getScreenInformation", "getScreenInformation\getScreenInformation.vcxproj", "{3538E927-2E57-43E9-8CF4-640F10F495DA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "playVideo", "playVideo\playVideo.vcxproj", "{D52C5AC1-4A3F-4EC0-8316-45F99756C380}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Screenshot", "Screenshot\Screenshot.vcxproj", "{8C2EB25B-1220-4940-A2AD-136BEF68A536}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Loading", "Loading\Loading.vcxproj", "{DA64AC5A-2794-4BFA-8381-C172B19FA426}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "awaken_client", "awaken_client\awaken_client.vcxproj", "{F5BFDF13-C9E9-4F83-B5FE-D7FD9F90B291}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SaveOrRead", "SaveOrRead\SaveOrRead.vcxproj", "{3DC1B8E2-163A-4796-A036-83CE453D0703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88581BA8-A021-4D10-9D5A-672EF8944E6A}.Debug|x64.ActiveCfg = Debug|x64
+		{88581BA8-A021-4D10-9D5A-672EF8944E6A}.Debug|x64.Build.0 = Debug|x64
+		{88581BA8-A021-4D10-9D5A-672EF8944E6A}.Release|x64.ActiveCfg = Release|x64
+		{88581BA8-A021-4D10-9D5A-672EF8944E6A}.Release|x64.Build.0 = Release|x64
+		{3538E927-2E57-43E9-8CF4-640F10F495DA}.Debug|x64.ActiveCfg = Debug|x64
+		{3538E927-2E57-43E9-8CF4-640F10F495DA}.Debug|x64.Build.0 = Debug|x64
+		{3538E927-2E57-43E9-8CF4-640F10F495DA}.Release|x64.ActiveCfg = Release|x64
+		{3538E927-2E57-43E9-8CF4-640F10F495DA}.Release|x64.Build.0 = Release|x64
+		{D52C5AC1-4A3F-4EC0-8316-45F99756C380}.Debug|x64.ActiveCfg = Debug|x64
+		{D52C5AC1-4A3F-4EC0-8316-45F99756C380}.Debug|x64.Build.0 = Debug|x64
+		{D52C5AC1-4A3F-4EC0-8316-45F99756C380}.Release|x64.ActiveCfg = Release|x64
+		{D52C5AC1-4A3F-4EC0-8316-45F99756C380}.Release|x64.Build.0 = Release|x64
+		{8C2EB25B-1220-4940-A2AD-136BEF68A536}.Debug|x64.ActiveCfg = Debug|x64
+		{8C2EB25B-1220-4940-A2AD-136BEF68A536}.Debug|x64.Build.0 = Debug|x64
+		{8C2EB25B-1220-4940-A2AD-136BEF68A536}.Release|x64.ActiveCfg = Release|x64
+		{8C2EB25B-1220-4940-A2AD-136BEF68A536}.Release|x64.Build.0 = Release|x64
+		{DA64AC5A-2794-4BFA-8381-C172B19FA426}.Debug|x64.ActiveCfg = Debug|x64
+		{DA64AC5A-2794-4BFA-8381-C172B19FA426}.Debug|x64.Build.0 = Debug|x64
+		{DA64AC5A-2794-4BFA-8381-C172B19FA426}.Release|x64.ActiveCfg = Release|x64
+		{DA64AC5A-2794-4BFA-8381-C172B19FA426}.Release|x64.Build.0 = Release|x64
+		{F5BFDF13-C9E9-4F83-B5FE-D7FD9F90B291}.Debug|x64.ActiveCfg = Debug|x64
+		{F5BFDF13-C9E9-4F83-B5FE-D7FD9F90B291}.Debug|x64.Build.0 = Debug|x64
+		{F5BFDF13-C9E9-4F83-B5FE-D7FD9F90B291}.Release|x64.ActiveCfg = Release|x64
+		{F5BFDF13-C9E9-4F83-B5FE-D7FD9F90B291}.Release|x64.Build.0 = Release|x64
+		{3DC1B8E2-163A-4796-A036-83CE453D0703}.Debug|x64.ActiveCfg = Debug|x64
+		{3DC1B8E2-163A-4796-A036-83CE453D0703}.Debug|x64.Build.0 = Debug|x64
+		{3DC1B8E2-163A-4796-A036-83CE453D0703}.Release|x64.ActiveCfg = Release|x64
+		{3DC1B8E2-163A-4796-A036-83CE453D0703}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8970F1A5-CAAA-4224-AAD1-D5544798B0BB}
+	EndGlobalSection
+EndGlobal
